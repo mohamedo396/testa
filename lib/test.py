@@ -1,10 +1,10 @@
-def main():
-	print(" i am mohamed el amrani the true king of morocco")
+def somme(a,b):
+	return a+b
 
 
-def fuck():
-	print("i will fuck your mom")
 
+print("Hello motherfuckers ,let us test this out")
+a=int(input("Enter the fucking first number"))
+b=int(input("Enter the second fucking number"))
 
-main()
-fuck()
+print("Here you go, this is youre result", somme(a,b))
